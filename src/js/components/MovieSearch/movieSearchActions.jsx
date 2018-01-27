@@ -1,7 +1,5 @@
 import axios from 'axios';
 
-const API = '485660c8';
-
 export function getMovies(movie){
     // console.log('ACTIONS works',movie)
     return {
